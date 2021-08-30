@@ -87,3 +87,17 @@ Print Example:
 ```python
 print(palindrome(word))
 ```
+
+### remove_spaces
+
+How to use:
+
+```python
+remove_spaces(field)
+```
+
+Print Example:
+
+```python
+print(remove_spaces(field))
+```
