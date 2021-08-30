@@ -19,4 +19,4 @@ def palindrome(word):
         return(f"{word} is not a palindrome")
 
 def remove_spaces(field):
-    return(field.split( ))
+    return(field.replace(" ",""))

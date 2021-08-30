@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='techdevutil',
-  version='0.0.3',
+  version='0.0.4',
   description='A util library',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  

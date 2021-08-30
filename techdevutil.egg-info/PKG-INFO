@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: techdevutil
-Version: 0.0.3
+Version: 0.0.4
 Summary: A util library
 Home-page: UNKNOWN
 Author: techpluscraft
@@ -10,6 +10,9 @@ Description: This is a util extension by techpluscraft with many functions
         
         Change Log
         ==========
+        0.0.4 (8/30/2021)
+        -----------------
+        - Fixed remove_spaces
         
         0.0.3 (8/30/2021)
         -----------------
