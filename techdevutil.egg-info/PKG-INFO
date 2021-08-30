@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: techdevutil
-Version: 0.0.1
+Version: 0.0.2
 Summary: A util library
 Home-page: UNKNOWN
 Author: techpluscraft
@@ -10,6 +10,10 @@ Description: This is a util extension by techpluscraft with many functions
         
         Change Log
         ==========
+        
+        0.0.2 (8/30/201)
+        ----------------
+        - Added palindrome Function
         
         0.0.1 (8/29/2021)
         -----------------
